@@ -20,5 +20,4 @@
 
 ## DRONEBIRD Dataset
 * dronebird/public https://code.earthengine.google.com/?accept_repo=users/dronebird/public
-* You can make a clone using by git
-```git clone https://earthengine.googlesource.com/users/dronebird/public```
+* You can make a clone using by ```git clone https://earthengine.googlesource.com/users/dronebird/public```
