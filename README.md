@@ -9,3 +9,10 @@
 * Time :  21:00 ~ 22:00 (JST), 04:00 ~ 05:00 (PST), 12:00 ~ 13:00 (GMT) 
 * Format: presentation + QA
 * Capacity : 100 people (depend on [Zoom Webinar](https://zoom.us/j/96830948489?pwd=VXNnbUpjZFV5OU5EZGtSU2xsSjVHQT09) )
+
+---
+
+## Links
+* Code Editor https://code.earthengine.google.com/
+* Earth Engine Data Catalog https://developers.google.com/earth-engine/datasets
+* Earth Engine API on GitHub https://github.com/google/earthengine-api
