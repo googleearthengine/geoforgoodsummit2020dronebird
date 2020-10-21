@@ -2,6 +2,11 @@
 
 <img src="https://github.com/googleearthengine/geoforgoodsummit2020dronebird/blob/main/assets/img/20-21-OCT_G4G_2020-07-31.jpg?raw=true" width="300" >
 
+Today's my slide:
+https://github.com/googleearthengine/geoforgoodsummit2020dronebird/blob/main/assets/docs/20201021_GoogleGeoForGoodSummit2020.pdf
+
+---
+
 * Host name : Taichi Furuhashi
 * Host email address : mapconcierge@gmail.com
 * Country : Japan 
@@ -10,7 +15,6 @@
 * Format: presentation + QA
 * Capacity : 100 people (depend on [Zoom Webinar](https://zoom.us/j/96830948489?pwd=VXNnbUpjZFV5OU5EZGtSU2xsSjVHQT09) )
 
----
 
 ## Links
 * Code Editor https://code.earthengine.google.com/
