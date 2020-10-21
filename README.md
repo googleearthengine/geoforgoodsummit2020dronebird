@@ -16,3 +16,5 @@
 * Code Editor https://code.earthengine.google.com/
 * Earth Engine Data Catalog https://developers.google.com/earth-engine/datasets
 * Earth Engine API on GitHub https://github.com/google/earthengine-api
+* OpenAerialMap https://openaerialmap.org/
+
