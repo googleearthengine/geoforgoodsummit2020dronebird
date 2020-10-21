@@ -2,8 +2,11 @@
 
 <img src="https://github.com/googleearthengine/geoforgoodsummit2020dronebird/blob/main/assets/img/20-21-OCT_G4G_2020-07-31.jpg?raw=true" width="300" >
 
-Today's my slide:
+My slide:
 https://github.com/googleearthengine/geoforgoodsummit2020dronebird/blob/main/assets/docs/20201021_GoogleGeoForGoodSummit2020.pdf
+
+Video:
+https://youtu.be/5f28bucsA_k?t=397
 
 ---
 
